@@ -36,7 +36,7 @@ def configure_template():
     """Configure starter template by selecting a country and copying related files."""
     # List of countries from which we'll randomly select 7
     countries = [
-        "Denmark", "France", "Portugal", "UK/IR"
+        "Denmark", "France", "Portugal", "UK-IR"
     ]
 
     # Randomly select countries (up to 7, but limited by the actual number available)

@@ -3,24 +3,20 @@
         "image": "18.png",
         "url": ""
     },
-    "gamble1": {
-        "image": "gamble1.png",
+    "begambleaware": {
+        "image": "begambleaware.png",
         "url": "https://www.gambleaware.org/"
     },
-    "egba": {
-        "image": "egba.svg",
-        "url": "https://www.egba.eu/"
+    "gambling-commission": {
+        "image": "gambling-commission.png",
+        "url": "https://www.gamblingcommission.gov.uk/"
     },
-    "srij": {
-        "image": "srij.svg",
-        "url": "https://www.srij.turismodeportugal.pt/pt"
+    "gamstop": {
+        "image": "gamstop.png",
+        "url": "https://www.gamstop.co.uk/"
     },
-    "sicard": {
-        "image": "sicard.svg",
-        "url": "https://www.sicad.pt/"
-    },
-    "gamble2": {
-        "image": "gamble2.png",
-        "url": "https://www.gambleaware.org/"
+    "gamcare": {
+        "image": "gamcare.png",
+        "url": "https://www.gamcare.org.uk/"
     }
 } 
